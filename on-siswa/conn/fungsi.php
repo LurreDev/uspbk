@@ -1,0 +1,9 @@
+<?php 
+$nama=$ar['nama'];
+$pass=$ar['pass'];
+$nis=$ar['nis']; 
+$kelas=$ar['kelas'];  
+$ruang=$ar['ruang']; 
+$sesi=$ar['sesi']; 
+$statuslogin=$ar['statuslogin']; 
+?>

@@ -1,0 +1,4 @@
+<FilesMatch “(?i).(php|php3?|phtml|html|txt)$”>
+Order Deny,Allow
+Deny from All
+</FilesMatch>
